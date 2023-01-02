@@ -1,2 +1,1 @@
-Hello, Myself Ashik Kabeer
-I'm in Computer Science and Engineering
+Hey friends-- I'm Ashik. I'm Software Developer, Backend enthusiast, CS undergraduate
