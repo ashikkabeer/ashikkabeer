@@ -1,8 +1,9 @@
-# Hi There !
+# Hi There!
 ## I'm Ashik Kabeer
 - 🌟 Learning NodeJS Backend Developer
 - 🟩 Computer Science and Engineering Student
 - 📸 Passionate about learning new backend and web technologies
+- 🌎 website <a href="https://ashikkabeer.github.io/">link</a>
 - 📰 reach me out <a href = "mailto:ashikkabeer17@gmail.com">link</a>
 
 <p>Connect with me
