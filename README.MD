@@ -13,7 +13,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/ashik-kabeer/"
 ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://www.instagram.com/ashik.kabeer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/ashikkabeerr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://linktr.ee/ashikkabeer"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></img></a>
 &emsp;
