@@ -58,17 +58,10 @@ Open to collaboration and excited about contributing to open-source projects. Le
 ![Ashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikkabeer&show_icons=true&theme=dark)
 <br>
 
-## 🔧Projects
+| Projects                                                | :heart:                                                        |
+| ---------------------------------------------------------- | ----------------------------------------------------------------- |
+| [![Top100MoviesList](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&theme=moltack)](https://github.com/ashikkabeer/Top100MoviesList) | [![Social-Media-App-Backend](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend&theme=moltack)](https://github.com/ashikkabeer/Social-Media-App-Backend) |
+| [![OpenAi-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=OpenAi-Discord-Bot&theme=moltack)](https://github.com/ashikkabeer/OpenAi-Discord-Bot) | [![Video-Streaming-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Video-Streaming-Web-App&theme=moltack)](https://github.com/ashikkabeer/Video-Streaming-Web-App) |
+| [![shop-cart-project-nodejs](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=shop-cart-project-nodejs&theme=moltack)](https://github.com/ashikkabeer/shop-cart-project-nodejs) | [![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=task-manager&theme=moltack)](https://github.com/ashikkabeer/task-manager) |
 
-[![Top100MoviesList](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&theme=moltack)](https://github.com/ashikkabeer/Top100MoviesList)
-
-[![Social-Media-App-Backend](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend&theme=moltack)](https://github.com/ashikkabeer/Social-Media-App-Backend)
-
-[![OpenAi-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=OpenAi-Discord-Bot&theme=moltack)](https://github.com/ashikkabeer/OpenAi-Discord-Bot) 
-
-[![Video-Streaming-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Video-Streaming-Web-App&theme=moltack)](https://github.com/ashikkabeer/Video-Streaming-Web-App)
-
-[![shop-cart-project-nodejs](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=shop-cart-project-nodejs&theme=moltack)](https://github.com/ashikkabeer/shop-cart-project-nodejs)
-
-[![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=task-manager&theme=moltack)](https://github.com/ashikkabeer/task-manager)
 
