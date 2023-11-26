@@ -1,7 +1,7 @@
 ## 👋 Hello World! I'm Ashik Kabeer,
 
 - 🚀 Currently exploring Node.js to build scalable and robust server-side applications.
-- 📚 Studying Computer Science
+- 📚 Studying Computer Science & Engineering
 - 💻 On a mission to craft clean, efficient, and maintainable code.
 
 ### 🔧 Tech Stack:
