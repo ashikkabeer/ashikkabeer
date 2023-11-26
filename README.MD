@@ -6,11 +6,13 @@
 
 ### 🔧 Tech Stack:
 
+Backend Technologies:
 - 🟩 Node.js
 - 🛠 Express.js
 - 🐘 PostgreSQL
+- 📁 Sequelize (ORM for Node.js)
 - 🗃 MongoDB
-- 🌐 TypeScript
+- 🔄 Redis
 - 🐍 Django
 - 🐧 Linux
 - 🐳 Docker
@@ -20,7 +22,17 @@
 - 🔐 JWT Authentication
 - 🚀 RESTful APIs
 - 📦 NPM
+- 🧪 Jest
 
+Languages:
+- ☕ Java
+- 🌐 JavaScript
+- 🚀 C
+- 🌐 TypeScript
+- 🐍 Python
+
+Frontend Technologies:
+- ⚛ React.js
 
 ### 🌱 Learning and Growing
 
