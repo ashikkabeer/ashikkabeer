@@ -68,15 +68,15 @@ Open to collaboration and excited about contributing to open-source projects. Le
 
 ## 🔧Projects
 
-[![Top100MoviesList](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&theme=merko)](https://github.com/ashikkabeer/Top100MoviesList)
+[![Top100MoviesList](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&theme=moltack)](https://github.com/ashikkabeer/Top100MoviesList)
 
-[![Social-Media-App-Backend](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend&theme=merko)](https://github.com/ashikkabeer/Social-Media-App-Backend)
+[![Social-Media-App-Backend](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend&theme=moltack)](https://github.com/ashikkabeer/Social-Media-App-Backend)
 
-[![OpenAi-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=OpenAi-Discord-Bot&theme=merko)](https://github.com/ashikkabeer/OpenAi-Discord-Bot)
+[![OpenAi-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=OpenAi-Discord-Bot&theme=moltack)](https://github.com/ashikkabeer/OpenAi-Discord-Bot)
 
-[![Video-Streaming-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Video-Streaming-Web-App&theme=merko)](https://github.com/ashikkabeer/Video-Streaming-Web-App)
+[![Video-Streaming-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Video-Streaming-Web-App&theme=moltack)](https://github.com/ashikkabeer/Video-Streaming-Web-App)
 
-[![shop-cart-project-nodejs](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=shop-cart-project-nodejs&theme=merko)](https://github.com/ashikkabeer/shop-cart-project-nodejs)
+[![shop-cart-project-nodejs](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=shop-cart-project-nodejs&theme=moltack)](https://github.com/ashikkabeer/shop-cart-project-nodejs)
 
-[![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=task-manager&theme=merko)](https://github.com/ashikkabeer/task-manager)
+[![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=task-manager&theme=moltack)](https://github.com/ashikkabeer/task-manager)
 
