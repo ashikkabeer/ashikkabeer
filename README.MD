@@ -11,7 +11,7 @@
 | Tech             |   |
 | ---------------- | - |
 | 🟩 Node.js        | 🚀 Express.js           |
-| 🐘 PostgreSQL     | 📁 Sequelize (ORM for Node.js) |
+| 🐘 PostgreSQL     | 📁 Sequelize (ORM for Node.js) | ![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 | 🗃 MongoDB        | 🔄 Redis                |
 | 🐍 Django         | 🐧 Linux                |
 | 🐳 Docker         | 🚀 WebSockets           |
