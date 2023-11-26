@@ -72,7 +72,7 @@ Open to collaboration and excited about contributing to open-source projects. Le
 
 [![Social-Media-App-Backend](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend&theme=moltack)](https://github.com/ashikkabeer/Social-Media-App-Backend)
 
-[![OpenAi-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=OpenAi-Discord-Bot&theme=moltack)](https://github.com/ashikkabeer/OpenAi-Discord-Bot)
+[![OpenAi-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=OpenAi-Discord-Bot&theme=moltack)](https://github.com/ashikkabeer/OpenAi-Discord-Bot) 
 
 [![Video-Streaming-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Video-Streaming-Web-App&theme=moltack)](https://github.com/ashikkabeer/Video-Streaming-Web-App)
 
