@@ -1,4 +1,4 @@
-## 👋 Hello World! I'm Ashik Kabeer,
+# 👋 Hello World! I'm Ashik Kabeer
 
 - 🚀 Currently exploring Node.js to build scalable and robust server-side applications.
 - 📚 Studying Computer Science & Engineering
