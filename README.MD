@@ -5,13 +5,13 @@
 - 💻 On a mission to craft clean, efficient, and maintainable code.
 
 ### 🔧 Tech Stack:
-
+![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 #### Backend Technologies:
 
 | Tech             |   |
 | ---------------- | - |
 | 🟩 Node.js        | 🚀 Express.js           |
-| 🐘 PostgreSQL     | 📁 Sequelize (ORM for Node.js) | ![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+| 🐘 PostgreSQL     | 📁 Sequelize (ORM for Node.js) | 
 | 🗃 MongoDB        | 🔄 Redis                |
 | 🐍 Django         | 🐧 Linux                |
 | 🐳 Docker         | 🚀 WebSockets           |
