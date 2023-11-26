@@ -63,7 +63,7 @@ Open to collaboration and excited about contributing to open-source projects. Le
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashik-kabeer)
 
 ### :fire: My Stats :
-[Ashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Ashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikkabeer&show_icons=true&theme=dark)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikkabeer&layout=compact&theme=vision-friendly-dark)
 
