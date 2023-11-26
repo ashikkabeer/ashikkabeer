@@ -6,30 +6,22 @@
 
 ### 🔧 Tech Stack:
 
-Backend Technologies:
-- 🟩 Node.js
-- 🛠 Express.js
-- 🐘 PostgreSQL
-- 📁 Sequelize (ORM for Node.js)
-- 🗃 MongoDB
-- 🔄 Redis
-- 🐍 Django
-- 🐧 Linux
-- 🐳 Docker
-- 🚀 WebSockets
-- ☁ Google Cloud
-- 🚀 GitHub Actions
-- 🔐 JWT Authentication
-- 🚀 RESTful APIs
-- 📦 NPM
-- 🧪 Jest
+| Backend Technologies           |:heart:                 |
+| ------------------ | ----------------------- |
+| 🟩 Node.js          | 🚀 Express.js           |
+| 🐘 PostgreSQL       | 📁 Sequelize (ORM for Node.js) |
+| 🗃 MongoDB          | 🔄 Redis                |
+| 🐍 Django           | 🐧 Linux                |
+| 🐳 Docker           | 🚀 WebSockets           |
+| ☁ Google Cloud     | 🚀 GitHub Actions       |
+| 🔐 JWT Authentication | 🚀 RESTful APIs        |
+| 📦 NPM              | 🧪 Jest                 |
 
-Languages:
-- ☕ Java
-- 🌐 JavaScript
-- 🚀 C
-- 🌐 TypeScript
-- 🐍 Python
+| Languages       | :heart:    |
+| ---------------- | -------------- |
+| ☕ Java           | 🌐 JavaScript  |
+| 🚀 C              | 🌐 TypeScript  |
+| 🐍 Python         |                |
 
 Frontend Technologies:
 - ⚛ React.js
