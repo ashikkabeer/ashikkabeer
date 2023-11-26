@@ -68,5 +68,18 @@ Open to collaboration and excited about contributing to open-source projects. Le
 
 ## 🔧Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=ffffff&bg_color=7fbc8c&border_color=121212&text_color=121212)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=ffffff&bg_color=7fbc8c&border_color=121212&text_color=121212)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+
+
