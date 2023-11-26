@@ -67,5 +67,4 @@ Open to collaboration and excited about contributing to open-source projects. Le
 <br>
 ##🔧 Projects
 [![Top100MoviesList](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Social-Media-App-Backend ](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend &show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top100MoviesList](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Social-Media-App-Backend](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
