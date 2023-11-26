@@ -60,6 +60,7 @@ Open to collaboration and excited about contributing to open-source projects. Le
 - 🐦 [Twitter](https://twitter.com/_ashikkabeer)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashik-kabeer)
 
+![](https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif)
 ### :fire: My Stats :
 
 ![Ashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikkabeer&show_icons=true&theme=dark)
