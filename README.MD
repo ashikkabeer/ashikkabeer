@@ -68,18 +68,15 @@ Open to collaboration and excited about contributing to open-source projects. Le
 
 ## 🔧Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+[![Top100MoviesList](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+[![Social-Media-App-Backend](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Social-Media-App-Backend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+[![OpenAi-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=OpenAi-Discord-Bot&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/OpenAi-Discord-Bot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+[![Video-Streaming-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Video-Streaming-Web-App&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Video-Streaming-Web-App)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
+[![shop-cart-project-nodejs](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=shop-cart-project-nodejs&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/shop-cart-project-nodejs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/Top100MoviesList)
-
+[![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=task-manager&title_color=121212&bg_color=fcdfff&border_color=121212&text_color=121212)](https://github.com/ashikkabeer/task-manager)
 
