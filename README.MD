@@ -45,7 +45,7 @@ Open to collaboration and excited about contributing to open-source projects. Le
 ### Happy coding! 🚀
 
 ### 📝 Technical Content Writing
-- ✍️ [Hashnode](https://ashikkabeer.hashnode.dev/)!
+- ✍️ [Hashnode](https://ashikkabeer.hashnode.dev/)
 - ✍️ [Medium](https://medium.com/@ashikkabeer)
 - 🐦 [Twitter](https://twitter.com/_ashikkabeer)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashik-kabeer)
