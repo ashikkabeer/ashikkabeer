@@ -1,4 +1,3 @@
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
 # 👋 Hello World! I'm Ashik Kabeer
 
 - 🚀 Currently exploring Node.js to build scalable and robust server-side applications.
