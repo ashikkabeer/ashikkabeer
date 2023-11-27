@@ -1,7 +1,5 @@
 # 👋 Hello World! I'm Ashik Kabeer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+it's+awesome+that+you're+here!+%F0%9F%8C%BC)]
-
 - 🚀 Currently exploring Node.js to build scalable and robust server-side applications.
 - 📚 Studying Computer Science & Engineering
 - 💻 On a mission to craft clean, efficient, and maintainable code.
