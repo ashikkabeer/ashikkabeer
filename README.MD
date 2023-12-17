@@ -32,9 +32,6 @@
 | 🚀 C              |   
 | 🐍 Python         |
 
-Frontend Technologies:
-- ⚛ React.js
-
 ### 🌱 Learning and Growing
 
 Currently learning and growing, with my eyes set on mastering backend architecture and cloud technologies.
