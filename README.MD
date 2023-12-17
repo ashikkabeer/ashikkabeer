@@ -25,9 +25,11 @@
 #### Languages:
 
 | Lang             |   |
-| ---------------- | - |
-| ☕ Java           | 🌐 JavaScript  |
-| 🚀 C              | 🌐 TypeScript  |
+| ---------------- |
+| 🌐 JavaScript     |
+| ☕ Java           |
+| 🌐 TypeScript     | 
+| 🚀 C              |   
 | 🐍 Python         |                |
 
 Frontend Technologies:
