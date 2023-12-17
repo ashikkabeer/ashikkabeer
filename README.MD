@@ -24,13 +24,13 @@
 
 #### Languages:
 
-| Lang             |   |
+| Lang             |   
 | ---------------- |
 | 🌐 JavaScript     |
 | ☕ Java           |
 | 🌐 TypeScript     | 
 | 🚀 C              |   
-| 🐍 Python         |                |
+| 🐍 Python         |
 
 Frontend Technologies:
 - ⚛ React.js
