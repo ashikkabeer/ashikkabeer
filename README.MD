@@ -18,10 +18,10 @@
 | 🗃 MongoDB        | 🔄 Redis                |
 | 🐍 Django         | 🐧 Linux                |
 | 🐳 Docker         | 🚀 WebSockets           |
-| ☁ Google Cloud   | ☁ AWS      |
+| ☁ Google Cloud   | 🚀 GitHub Actions     |
 | 🔐 JWT Auth       | 🚀 RESTful APIs        |
 | 📦 NPM            | 🧪 Jest                 |
-| 🚀 GitHub Actions  |                  |
+|   |                  |
 
 #### Languages:
 
