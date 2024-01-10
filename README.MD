@@ -59,7 +59,7 @@ Open to collaboration and excited about contributing to open-source projects. Le
 
 - ✍️ [Hashnode](https://ashikkabeer.hashnode.dev/)
 - ✍️ [Medium](https://medium.com/@ashikkabeer)
-- 🐦 [Twitter](https://twitter.com/_ashikkabeer)
+- 🐦 [Twitter](https://twitter.com/ashikkabeerr)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashik-kabeer)
 
 ![](https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif)
