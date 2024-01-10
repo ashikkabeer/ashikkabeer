@@ -5,8 +5,6 @@
 - 📚 Studying Computer Science & Engineering
 - 💻 On a mission to craft clean, efficient, and maintainable code.
 
-![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
-
 ### 🔧 Tech Stack:
 
 #### Backend Technologies:
