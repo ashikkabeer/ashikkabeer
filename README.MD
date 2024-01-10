@@ -68,18 +68,14 @@ Open to collaboration and excited about contributing to open-source projects. Le
 ![Ashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikkabeer&show_icons=true&theme=dark)
 
 ## 🔧Projects
-<table>
-  <tr>
-    <td><a href="^1^"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&theme=moltack" alt="Top100MoviesList"></a></td>
-    <td><a href="^2^"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend&theme=moltack" alt="Social-Media-App-Backend"></a></td>
-  </tr>
-  <tr>
-    <td><a href="^3^"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=OpenAi-Discord-Bot&theme=moltack" alt="OpenAi-Discord-Bot"></a></td>
-    <td><a href="^4^"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Video-Streaming-Web-App&theme=moltack" alt="Video-Streaming-Web-App"></a></td>
-  </tr>
-  <tr>
-    <td><a href="^5^"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=shop-cart-project-nodejs&theme=moltack" alt="shop-cart-project-nodejs"></a></td>
-    <td><a href="^6^"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=task-manager&theme=moltack" alt="task-manager"></a></td>
-  </tr>
-</table>
+[![Top100MoviesList](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Top100MoviesList&theme=moltack)](https://github.com/ashikkabeer/Top100MoviesList)
 
+[![Social-Media-App-Backend](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Social-Media-App-Backend&theme=moltack)](https://github.com/ashikkabeer/Social-Media-App-Backend)
+
+[![OpenAi-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=OpenAi-Discord-Bot&theme=moltack)](https://github.com/ashikkabeer/OpenAi-Discord-Bot) 
+
+[![Video-Streaming-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=Video-Streaming-Web-App&theme=moltack)](https://github.com/ashikkabeer/Video-Streaming-Web-App)
+
+[![shop-cart-project-nodejs](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=shop-cart-project-nodejs&theme=moltack)](https://github.com/ashikkabeer/shop-cart-project-nodejs)
+
+[![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=ashikkabeer&repo=task-manager&theme=moltack)](https://github.com/ashikkabeer/task-manager)
