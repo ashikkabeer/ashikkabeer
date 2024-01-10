@@ -23,13 +23,13 @@
 
 #### Languages:
 
-| Lang             |   
-| ---------------- |
+| Lang             |   |
+| ---------------- | - |
 | 🌐 JavaScript     |
 | ☕ Java           |
-| 🌐 TypeScript     | 
+| 🌐 TypeScript     |
 | 🚀 C              | 
-| 💙 GoLanf         |
+| 💙 GoLang         |
 | 🐍 Python         |
 
 ### 🌱 Learning and Growing
