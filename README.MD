@@ -1,6 +1,7 @@
 # 👋 Hello World! I'm Ashik Kabeer
 
-- 🚀 Currently exploring Node.js to build scalable and robust server-side applications.
+- 🚀 Currently building scalable and robust server-side applications on Node.js.
+- 💙 Exploring GoLang
 - 📚 Studying Computer Science & Engineering
 - 💻 On a mission to craft clean, efficient, and maintainable code.
 
@@ -29,7 +30,8 @@
 | 🌐 JavaScript     |
 | ☕ Java           |
 | 🌐 TypeScript     | 
-| 🚀 C              |   
+| 🚀 C              | 
+| 💙 GoLanf         |
 | 🐍 Python         |
 
 ### 🌱 Learning and Growing
