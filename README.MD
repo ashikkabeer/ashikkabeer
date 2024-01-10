@@ -16,11 +16,11 @@
 | 🟩 Node.js        | 🚀 Express.js           |
 | 🐘 PostgreSQL     | 📁 Sequelize (ORM for Node.js) | 
 | 🗃 MongoDB        | 🔄 Redis                |
-| 🐍 Django         | 🐧 Linux                |
+| 🧪 Jest  | 🐧 Linux                |
 | 🐳 Docker         | 🚀 WebSockets           |
 | ☁ Google Cloud   | 🚀 GitHub Actions     |
 | 🔐 JWT Auth       | 🚀 RESTful APIs        |
-| 📦 NPM            | 🧪 Jest                 |
+| 📦 NPM            |                |
 |   |                  |
 
 #### Languages:
