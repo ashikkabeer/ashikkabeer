@@ -1,11 +1,11 @@
 # 👋 Hello World! I'm Ashik Kabeer
 
-- 🚀 Currently building scalable and robust server-side applications on Node.js.
-- 💙 Exploring GoLang now
-- 📚 Studying Computer Science & Engineering
-- 💻 On a mission to craft clean, efficient, and maintainable code.
+🚀 Currently building scalable and robust server-side applications on Node.js.
+💙 Exploring GoLang now
+📚 Studying Computer Science & Engineering
+💻 On a mission to craft clean, efficient, and maintainable code.
 
-- 📫 Reach me at [ashikkabeer03@gmail.com](mailto:ashikkabeer03@gmail.com)
+📫 Reach me at [ashikkabeer03@gmail.com](mailto:ashikkabeer03@gmail.com)
 
 ### 🔧 Tech Stack:
 
