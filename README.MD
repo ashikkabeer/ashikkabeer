@@ -6,8 +6,6 @@
 
 📚 Studying Computer Science & Engineering
 
-💻 On a mission to craft clean, efficient, and maintainable code.
-
 
 📫 Reach me at [ashikkabeer03@gmail.com](mailto:ashikkabeer03@gmail.com)
 
