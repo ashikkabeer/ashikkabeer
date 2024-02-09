@@ -2,7 +2,6 @@
 
 🚀 Currently building scalable and robust server-side applications on Node.js.
 
-💙 Exploring GoLang now
 
 📚 Studying Computer Science & Engineering
 
