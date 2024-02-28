@@ -45,7 +45,7 @@ Open to collaboration and excited about contributing to open-source projects. Le
 
 - 📫 Reach me at [ashikkabeer03@gmail.com](mailto:ashikkabeer03@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ashik-kabeer/)!
 
-<a target="_blank" href="https://twitter.com/_ashikkabeer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/ashikkabeerr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://www.linkedin.com/in/ashik-kabeer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 &emsp;
