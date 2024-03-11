@@ -23,7 +23,7 @@
 | 🐳 Docker         | 🚀 WebSockets           |
 | ☁ Google Cloud   | 🚀 GitHub Actions     |
 | 🔐 JWT Auth       | 🚀 RESTful APIs        |
-| 📁 Prisma | :fire NestJS|
+| 📁 Prisma | 🧧 NestJS|
 
 #### Languages:
 
