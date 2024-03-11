@@ -19,14 +19,13 @@
 | Tech             |   |
 | ---------------- | - |
 | 🟩 Node.js        | 🚀 Express.js           |
-| 🐘 PostgreSQL     | 📁 Sequelize (ORM for Node.js) | 
+| 🐘 PostgreSQL     | 📁 Sequelize | 
 | 🗃 MongoDB        | 🔄 Redis                |
-| 🧪 Jest  | 🐧 Linux                |
+| 🧪 Jest            | 🐧 Linux  |
 | 🐳 Docker         | 🚀 WebSockets           |
 | ☁ Google Cloud   | 🚀 GitHub Actions     |
 | 🔐 JWT Auth       | 🚀 RESTful APIs        |
-| 📦 NPM            |                |
-|   |                  |
+| 📁 Prisma | :fire NestJS|
 
 #### Languages:
 
