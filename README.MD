@@ -39,6 +39,12 @@
 | 💙 GoLang         |
 | 🐍 Python         |
 
+### :fire: My Stats :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikkabeer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikkabeer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ### 🌱 Learning and Growing
 
 Currently learning and growing, with my eyes set on mastering backend architecture and cloud technologies.
@@ -67,8 +73,4 @@ Open to collaboration and excited about contributing to open-source projects. Le
 - 🐦 [Twitter](https://twitter.com/ashikkabeerr)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashik-kabeer)
 
-### :fire: My Stats :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikkabeer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikkabeer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
