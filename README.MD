@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ashikkabeer/count.svg?"  />
-</div>
-
 # 👋 Hello World! I'm Ashik Kabeer
 
 🚀 Currently building scalable and robust server-side applications on Node.js.
