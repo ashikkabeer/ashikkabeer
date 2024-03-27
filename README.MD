@@ -46,7 +46,7 @@ Currently learning and growing, with my eyes set on mastering backend architectu
 
 Open to collaboration and excited about contributing to open-source projects. Let's connect and build something amazing together!
 
-- 📫 Reach me at [ashikkabeer03@gmail.com](mailto:ashikkabeer03@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ashik-kabeer/)!
+- 📫 connect on [LinkedIn](https://www.linkedin.com/in/ashik-kabeer/)!
 
 <a target="_blank" href="https://twitter.com/ashikkabeerr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 &emsp;
