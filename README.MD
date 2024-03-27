@@ -4,7 +4,7 @@
 
 📚 Studying Computer Science & Engineering
 
-📫 Reach me at [ashikkabeer03@gmail.com](mailto:ashikkabeer03@gmail.com)
+📫 Reach me at [mail](mailto:ashikkabeer03@gmail.com)
 
 ### 🔧 Tech Stack:
 
